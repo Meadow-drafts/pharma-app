@@ -1,0 +1,6 @@
+{
+  "/(dashboard)/drugs/page": "app/(dashboard)/drugs/page.js",
+  "/(dashboard)/drugs/add/page": "app/(dashboard)/drugs/add/page.js",
+  "/(dashboard)/reservations/page": "app/(dashboard)/reservations/page.js",
+  "/(dashboard)/reservations/add/page": "app/(dashboard)/reservations/add/page.js"
+}
